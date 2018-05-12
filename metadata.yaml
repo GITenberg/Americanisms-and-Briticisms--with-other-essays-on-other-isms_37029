@@ -1,0 +1,38 @@
+_repo: Americanisms-and-Briticisms--with-other-essays-on-other-isms_37029
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37029-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Matthews, Brander
+    aliases:
+    - Penn, Arthur
+    - Matthews, J. Brander (James Brander)
+    - Matthews, James Brander
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '1992'
+    url: http://www.gutenberg.org/2009/agents/1992
+    wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
+description: ''
+gutenberg_issued: '2011-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37029'
+  lccn: '12036682'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature -- 19th century -- History and criticism'
+- !lcc 'PS'
+- !lcsh 'Literature, Modern -- 19th century -- History and criticism'
+- !lcsh 'Americanisms'
+tableOfContents: Americanisms and Briticisms -- As to "American spelling" -- The literary
+  independence of the United States -- The centenary of Fenimore Cooper -- Ignorance
+  and insularity -- The whole duty of critics -- Three American essayists -- Dissolving
+  views.
+title: Americanisms and Briticisms; with other essays on other isms
+url: http://www.gutenberg.org/ebooks/37029
