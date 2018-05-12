@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1992
     wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37029#Americanisms-and-Briticisms--with-other-essays-on-other-isms
 gutenberg_issued: '2011-08-10'
 gutenberg_type: Text
 identifiers:
